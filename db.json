@@ -6,8 +6,8 @@
 			"type":"Manual",
       "year": 2019,
       "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "description": "Tata Altroz with all original documents",
+      "price": 500000
     },
     {
       "id": 2,
@@ -15,8 +15,8 @@
 			"type":"AMT",
       "year": 2017,
       "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
+      "description": "Tata Nexon with all original documents",
+      "price": 800000
     }
   ],
   "wishlisted_cars": [
@@ -26,8 +26,8 @@
       "year": 2019,
 			"type":"Manual",
       "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "description": "Tata Altroz with all original documents",
+      "price": 500000
     }
   ]
   }
