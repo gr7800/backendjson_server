@@ -29,6 +29,21 @@
       "description": "Tata Altroz with all original documents",
       "price": 500000
     }
+  ],
+  "users":[
+    {
+      "email":"gt29015@gmail.com",
+      "username":"Guddu",
+      "password":"12345"
+    }
+  ],
+  "tasks":[
+     {
+      "username":"Guddu",
+      "date":"12/09/2222",
+      "total_task":3,
+      "today_task":["Attend Mock","Attend Interviews","Revise React"]
+     }
   ]
   }
   
