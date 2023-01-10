@@ -3,7 +3,7 @@
     {
       "id": 1,
       "brand": "Tata",
-			"type":"Manual",
+      "type": "Manual",
       "year": 2019,
       "kms": 10000,
       "description": "Tata Altroz with all original documents",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "brand": "Tata",
-			"type":"AMT",
+      "type": "AMT",
       "year": 2017,
       "kms": 8000,
       "description": "Tata Nexon with all original documents",
@@ -24,28 +24,47 @@
       "id": 1,
       "brand": "Tata",
       "year": 2019,
-			"type":"Manual",
+      "type": "Manual",
       "kms": 10000,
       "description": "Tata Altroz with all original documents",
       "price": 500000
     }
   ],
-  "users":[
-    { 
-      "id":1,
-      "email":"gt29015@gmail.com",
-      "username":"Guddu",
-      "password":"12345"
+  "users": [
+    {
+      "id": 1,
+      "email": "gt29015@gmail.com",
+      "username": "Guddu",
+      "password": "12345"
     }
   ],
-  "tasks":[
-     {
-      "id":1,
-      "username":"Guddu",
-      "date":"12/09/2222",
-      "total_task":3,
-      "today_task":["Attend Mock","Attend Interviews","Revise React"]
-     }
+  "tasks": [
+    {
+      "id": 1,
+      "username": "Guddu",
+      "date": "12/09/2222",
+      "total_task": 3,
+      "today_task": [
+        "Attend Mock",
+        "Attend Interviews",
+        "Revise React"
+      ]
+    }
+  ],
+  "dogs": [
+    {
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
+    }
   ]
-  }
-  
+}
